@@ -1,0 +1,15 @@
+F:\Intern Developer .Net\ASP .Net Core with C#\RockPaperScissors\obj\Debug\net8.0\RockPaperScissors.GeneratedMSBuildEditorConfig.editorconfig
+F:\Intern Developer .Net\ASP .Net Core with C#\RockPaperScissors\obj\Debug\net8.0\RockPaperScissors.AssemblyInfoInputs.cache
+F:\Intern Developer .Net\ASP .Net Core with C#\RockPaperScissors\obj\Debug\net8.0\RockPaperScissors.AssemblyInfo.cs
+F:\Intern Developer .Net\ASP .Net Core with C#\RockPaperScissors\obj\Debug\net8.0\RockPaperScissors.csproj.CoreCompileInputs.cache
+F:\Intern Developer .Net\ASP .Net Core with C#\RockPaperScissors\bin\Debug\net8.0\RockPaperScissors.exe
+F:\Intern Developer .Net\ASP .Net Core with C#\RockPaperScissors\bin\Debug\net8.0\RockPaperScissors.deps.json
+F:\Intern Developer .Net\ASP .Net Core with C#\RockPaperScissors\bin\Debug\net8.0\RockPaperScissors.runtimeconfig.json
+F:\Intern Developer .Net\ASP .Net Core with C#\RockPaperScissors\bin\Debug\net8.0\RockPaperScissors.dll
+F:\Intern Developer .Net\ASP .Net Core with C#\RockPaperScissors\bin\Debug\net8.0\RockPaperScissors.pdb
+F:\Intern Developer .Net\ASP .Net Core with C#\RockPaperScissors\obj\Debug\net8.0\RockPaperScissors.dll
+F:\Intern Developer .Net\ASP .Net Core with C#\RockPaperScissors\obj\Debug\net8.0\refint\RockPaperScissors.dll
+F:\Intern Developer .Net\ASP .Net Core with C#\RockPaperScissors\obj\Debug\net8.0\RockPaperScissors.pdb
+F:\Intern Developer .Net\ASP .Net Core with C#\RockPaperScissors\obj\Debug\net8.0\RockPaperScissors.genruntimeconfig.cache
+F:\Intern Developer .Net\ASP .Net Core with C#\RockPaperScissors\obj\Debug\net8.0\ref\RockPaperScissors.dll
+F:\Intern Developer .Net\ASP .Net Core with C#\RockPaperScissors\obj\Debug\net8.0\RockPaperScissors.sourcelink.json
